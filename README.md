@@ -1,8 +1,9 @@
 # About
 This is for my proof of work to employers.<br>
 Regardless, if you find this interesting, don't forget to share it with a hashtag #FujinGame!!<br>
+Access link: [https://trueryob.github.io/Fujin-Game/](https://trueryob.github.io/Fujin-Game/)
 <br>
-# HowToPlay
+# How To Play
 Check [this png](https://github.com/TrueRyoB/FujinGame/blob/main/Platformer%20Key%20Map.png) for keys available at the platformer scene.<br>
 Other than that, <br>
 - Esc key for undo
